@@ -25,7 +25,7 @@
 
 #### JS Framework/Library
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 #### CSS Framework/Library/Pre-processors=
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-000.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
